@@ -11,8 +11,8 @@
 - firebase setup
 - npm i firebase , npm i -g firebase-tools, firebase login, firebase init , npm run build, firebase deploy
 - create Signup User Account
-- npm install -D @reduxjs/toolkit
-- npm install react-redux
+- Implement Sign in user API
+- Created Redux store with userSlice => npm install -D @reduxjs/toolkit , npm install react-redux
 
 # Features
 
