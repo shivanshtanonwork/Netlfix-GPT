@@ -6,3 +6,12 @@ export const BGIMG =
 
 export const USER_AVATAR =
   "https://occ-0-5690-3662.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABd8Oyt2qR7SGgM4xzz_KJ8Zx82hmZRkiVbFd63yVUfvCF46WI6YzmhnOWZRr38DfpMZ-J9E4H9x7KDShvOmJEcE6gjVuPlA.png?r=bcc";
+
+export const API_OPTIONS = {
+  method: "GET",
+  headers: {
+    accept: "application/json",
+    Authorization:
+      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiZDk1Yjc4OThlNGNkZDRjNTU4YzdiNDRlMWU1NTRjNSIsIm5iZiI6MTc3MDAyMzk1NS45MDksInN1YiI6IjY5ODA2YzEzZDI0NjdlOWI4ZWIyMTFiNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.am2ws2ZPy0aRaJNw5Ty3hgH08K7VMNx8AXlDaJjKb00",
+  },
+};

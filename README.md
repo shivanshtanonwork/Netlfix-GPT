@@ -17,6 +17,8 @@
 - Update profile
 - Unsubscribed to the onAuthStateChanged callback
 - Fetch from TMDB Movie
+- Register for TMDB API & create an APP & get access token
+- GET data from TMDB now playing movies list api
 
 # Features
 
