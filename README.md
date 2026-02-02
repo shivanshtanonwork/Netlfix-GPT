@@ -15,6 +15,7 @@
 - Created Redux store with userSlice => npm install -D @reduxjs/toolkit , npm install react-redux
 - Implemented Sign Out
 - Update profile
+- Unsubscribed to the onAuthStateChanged callback
 - Fetch from TMDB Movie
 
 # Features
