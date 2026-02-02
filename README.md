@@ -13,6 +13,9 @@
 - create Signup User Account
 - Implement Sign in user API
 - Created Redux store with userSlice => npm install -D @reduxjs/toolkit , npm install react-redux
+- Implemented Sign Out
+- Update profile
+- Fetch from TMDB Movie
 
 # Features
 
